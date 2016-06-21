@@ -1,0 +1,15 @@
+.jumbotron{
+	background-image: url("../images/plant2.jpg");
+	background-position: center;
+}
+body{
+
+	background-color: #4F5425;
+}
+div{
+ 
+  height: 700px;
+  border: 1px solid blue
+  overflow: scroll;
+  color: #FFFFFF;
+}
